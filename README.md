@@ -10,9 +10,11 @@ A simple desktop voice assistant project built in Python using `pyttsx3` and `Sp
 - Initialized Git and pushed project to GitHub
 
 ## 🚀 How to Run
-
-```bash
+  ```bash
 python assistant.py
+```
+
+
 
 # 🗣️ Voice Assistant – Week 2 Update
 
