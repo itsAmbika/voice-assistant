@@ -2,6 +2,14 @@
 
 A simple desktop voice assistant project built in Python using `pyttsx3` and `SpeechRecognition`.
 
+## Folder Structure
+```bash
+voice_assistant_project/
+├── assistant.py         # Main logic for speech input & output
+├── venv/                # Virtual environment
+├── README.md            # Project documentation
+├──assets                # To show results
+ ```
 ## 🗓️ Week 1 Progress
 
 - Set up Python virtual environment (`venv`)
@@ -53,3 +61,9 @@ Say "What time is it?" → It replies with the current time.
 Say "Tell me a joke" → It tells a joke.
 
 Say anything else → It replies it can’t do that yet.
+
+## Required Packages
+
+```bash
+pip install pyttsx3 SpeechRecognition pyaudio
+```
